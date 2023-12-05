@@ -95,5 +95,6 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView._addHandlerUpload(controlAddRecipe);
   console.log('hello');
+  console.log('hello');
 };
 init();
